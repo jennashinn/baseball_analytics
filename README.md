@@ -13,6 +13,6 @@ Furthermore, the models can be used to find any player's value at any point in t
 
 
 ## Data
-The data was sourced with [PyBaseball package]("https://github.com/jldbc/pybaseball) which allows users to scrape Baseball Reference, Baseball Savant, and FanGraphs data.
+The data was sourced with [PyBaseball]("https://github.com/jldbc/pybaseball) which allows users to scrape Baseball Reference, Baseball Savant, and FanGraphs data.
 
 FanGraphs provides a full [glossary](https://library.fangraphs.com/offense/offensive-statistics-list/) of the offensive terms used in the batting data.
